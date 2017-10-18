@@ -1,0 +1,2 @@
+# sampleprojectstructurewebjob
+# sampleprojectstructure
